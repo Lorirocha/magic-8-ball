@@ -5,12 +5,12 @@
   }
   
   html {
-    font-family: "Montserrat", sans-serif;
-    font-size: 16px;
-    color: #454545;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: #332d6e;
     margin: 0px;
     padding: 0px;
-    background-color: #f8f8f8;
+    background-color: #ffffff;
     text-align: center;
   }
   
@@ -20,7 +20,7 @@
   header span {
     font-size: 60px;
     font-size: 2em;
-    color: #f16059;
+    color: #712724;
   }
   h1, h2, h3, h4, h5, h6 {
     font-family: "Montserrat", sans-serif;
@@ -34,14 +34,14 @@
     max-width: 40em;
   }
   .answer {
-    color: #222;
+    color: rgb(255, 250, 250);
     text-transform: uppercase;
     margin: 0;
     position: absolute;
-    top: 38%;
-    left: 46%;
-    width: 11%;
-    font-size: 80%;
+    top: 45%;
+    left: 44%;
+    width: 12%;
+    font-size: 90%;
   }
   
   #questionButton {
@@ -49,7 +49,7 @@
     font-size: 30px;
     font-size: 1.875em;
     color: #f8f8f8;
-    background-color: #f16059;
+    background-color: #660f0b;
     border-radius: 5px;
     border: none;
     padding: .5em 1em;
